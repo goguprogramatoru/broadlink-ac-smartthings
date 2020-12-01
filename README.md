@@ -1,7 +1,7 @@
 # broadlink-ac-smartthings
 
 # Info
-Smartthings handler for broadlink-based AC units (usually come with the AcFreedom app)
+Smartthings device handler for broadlink-based AC units (usually come with the AcFreedom app)
 
 
 **WARNING: This is just a prototype project not a final product!**<br>
