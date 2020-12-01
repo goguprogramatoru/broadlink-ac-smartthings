@@ -24,6 +24,13 @@ In general, it should support the smart AC units that have the AcFreedom app.
 
 If you have tested this on other devices, please let me know, to update this readme.
 
+# Functionalities
+- get / set power on/off
+- get / set temperature
+- get / set mode (heating, cooling, dry, fan-only, auto)
+- get ambient temperature
+- refresh
+
 # Pre-requirements
 Install the broadlink-ac-rest-service: https://github.com/goguprogramatoru/broadlink-ac-rest-service
 
