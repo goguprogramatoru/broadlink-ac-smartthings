@@ -29,8 +29,8 @@ Install the broadlink-ac-rest-service: https://github.com/goguprogramatoru/broad
 
 # Installing
 1. copy-paste & save the broadlink-ac-dh.groovy in your groovy ide -> my device handler -> create new device handler -> from code
-2. Add a new device. 
-2.1. The device network id format: server-ip|server-port|ac-mac (ex: 192.168.1.2|9000|34:EA:34:12:34:56
+2. Add a new device. <br>
+2.1. The device network id format: server-ip|server-port|ac-mac (ex: 192.168.1.2|9000|34:EA:34:12:34:56 <br>
 2.2. type = broadlink-ac
 
 # Tags: 
